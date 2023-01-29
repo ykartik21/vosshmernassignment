@@ -1,0 +1,33 @@
+.orders{
+    min-width: 90vw;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.order{
+    width: 80%;
+    height: 80px;
+    background-color: azure;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.order h1{
+    font-weight: 100;
+    font-size: 15px;
+    margin: 3px;
+}
+.order h2{
+    font-weight: 100;
+    font-size: 15px;
+    margin: 3px;
+}
+.order h3{
+    font-weight: 100;
+    font-size: 15px;
+    margin: 3px;
+}
